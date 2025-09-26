@@ -17,37 +17,30 @@
             "store_fakeip": true
         }
     },
-    "dns": {
-        "servers": [
-            {
-                "type": "https",
-                "server": "223.5.5.5",
-                "tag": "local"
-            },
-            {
-                "type": "https",
-                "server": "1.1.1.1",
-                "tag": "remote"
-            }
-        ],
-        "rules": [
-            {
-                "rule_set": [
-                    "geosite-cn"
-                ],
-                "server": "local"
-            },
-            {
-                "clash_mode": "Direct",
-                "server": "local"
-            },
-            {
-                "clash_mode": "Proxy",
-                "server": "remote"
-            }
-        ],
-        "strategy": "prefer_ipv4"
-    },
+  "dns": {
+    "servers": [
+      {
+        "type": "https",
+        "tag": "local",
+        "server": "223.5.5.5",
+        "server_port": 443,
+        "path": "/dns-query"
+      },
+      {
+        "type": "https",
+        "tag": "remote",
+        "server": "1.1.1.1",
+        "server_port": 443,
+        "path": "/dns-query"
+      }
+    ],
+    "rules": [
+      { "rule_set": ["geosite-cn"], "server": "local" },
+      { "clash_mode": "Direct", "server": "local" },
+      { "clash_mode": "Proxy", "server": "remote" }
+    ],
+    "strategy": "prefer_ipv4"
+  },
     "inbounds": [
         {
             "listen": "127.0.0.1",
