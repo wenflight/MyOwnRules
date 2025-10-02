@@ -176,36 +176,10 @@
         {
             "type": "vless",
             "tag": "rack.doublewen.top",
-            "server": "rack.doublewen.top",
-            "server_port": 45697,
-            "uuid": "15779266-9643-49f3-8197-5e699c828285",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.lovelive-anime.jp",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "C7LtmsMd8xSw7kOl_EeujeAq0f8pSzvl8CFsgtxV-FY",
-                    "short_id": "3b27a39058708f"
-                }
-            },
-            "network": "tcp",
-            "tcp_fast_open": false
         },
         {
             "type": "vmess",
-            "tag": "DoubleQ",
-            "server": "q.doublewen.top",
-            "server_port": 18001,
-            "uuid": "1071B630-13E5-73CA-6B06-120D7D6E647A",
-            "alter_id": 64,
-            "security": "auto",
-            "network": "tcp",
-            "tcp_fast_open": false
+            "tag": "DoubleQ"
         }
     ],
     "route": {
