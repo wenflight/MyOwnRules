@@ -1,34 +1,139 @@
 payload:
-- DOMAIN-SUFFIX,youtube.com
-- DOMAIN-SUFFIX,ytimg.com
-- DOMAIN-SUFFIX,googlevideo.com
-- DOMAIN-SUFFIX,youtu.be
-- DOMAIN-SUFFIX,youtube-nocookie.com
-- DOMAIN-SUFFIX,yt.be
-- DOMAIN-KEYWORD,youtube
-- DOMAIN-SUFFIX,netflix.com
-- DOMAIN-SUFFIX,netflix.net
-- DOMAIN-SUFFIX,nflximg.net
-- DOMAIN-SUFFIX,nflximg.com
-- DOMAIN-SUFFIX,nflxvideo.net
-- DOMAIN-SUFFIX,nflxso.net
-- DOMAIN-SUFFIX,nflxext.com
-- DOMAIN-SUFFIX,twitch.tv
-- DOMAIN-SUFFIX,twitchcdn.net
-- DOMAIN-SUFFIX,twitchsvc.net
-- DOMAIN-SUFFIX,jtvnw.net
-- DOMAIN-SUFFIX,spotify.com
-- DOMAIN-SUFFIX,spotifycdn.com
-- DOMAIN-SUFFIX,scdn.co
-- DOMAIN-SUFFIX,spoti.fi
-- DOMAIN-SUFFIX,disneyplus.com
-- DOMAIN-SUFFIX,disney-plus.net
-- DOMAIN-SUFFIX,dssott.com
-- DOMAIN-SUFFIX,bamgrid.com
-- DOMAIN-SUFFIX,disney.com
-- DOMAIN-SUFFIX,disneystreaming.com
-- DOMAIN-SUFFIX,hbomax.com
-- DOMAIN-SUFFIX,max.com
-- DOMAIN-SUFFIX,hbo.com
-- DOMAIN-KEYWORD,netflix
-- DOMAIN-KEYWORD,twitch
+  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,ytimg.com
+  - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,youtube-nocookie.com
+  - DOMAIN-SUFFIX,yt.be
+  - DOMAIN-KEYWORD,youtube
+  - DOMAIN-SUFFIX,netflix.com.edgesuite.net
+  - DOMAIN-SUFFIX,us-west-2.amazonaws.com
+  - DOMAIN-SUFFIX,netflix.com
+  - DOMAIN-SUFFIX,netflix.net
+  - DOMAIN-SUFFIX,nflximg.net
+  - DOMAIN-SUFFIX,nflximg.com
+  - DOMAIN-SUFFIX,nflxvideo.net
+  - DOMAIN-SUFFIX,nflxso.net
+  - DOMAIN-SUFFIX,nflxext.com
+  - DOMAIN-SUFFIX,twitch.tv
+  - DOMAIN-SUFFIX,twitchcdn.net
+  - DOMAIN-SUFFIX,twitchsvc.net
+  - DOMAIN-SUFFIX,jtvnw.net
+  - DOMAIN-SUFFIX,spotify.com
+  - DOMAIN-SUFFIX,spotifycdn.com
+  - DOMAIN-SUFFIX,scdn.co
+  - DOMAIN-SUFFIX,spoti.fi
+  - DOMAIN-SUFFIX,disneyplus.com
+  - DOMAIN-SUFFIX,disney-plus.net
+  - DOMAIN-SUFFIX,dssott.com
+  - DOMAIN-SUFFIX,bamgrid.com
+  - DOMAIN-SUFFIX,disney.com
+  - DOMAIN-SUFFIX,disneystreaming.com
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,pornhubpremium.com
+  - DOMAIN-SUFFIX,phncdn.com
+  - DOMAIN-SUFFIX,xvideos.com
+  - DOMAIN-SUFFIX,xvideos-cdn.com
+  - DOMAIN-SUFFIX,xnxx.com
+  - DOMAIN-SUFFIX,xhamster.com
+  - DOMAIN-SUFFIX,xhamsterlive.com
+  - DOMAIN-SUFFIX,xhcdn.com
+  - DOMAIN-SUFFIX,redtube.com
+  - DOMAIN-SUFFIX,redtubefiles.com
+  - DOMAIN-SUFFIX,youporn.com
+  - DOMAIN-SUFFIX,ypncdn.com
+  - DOMAIN-SUFFIX,tube8.com
+  - DOMAIN-SUFFIX,spankbang.com
+  - DOMAIN-SUFFIX,spankbang.party
+  - DOMAIN-SUFFIX,sb-cd.com
+  - DOMAIN-SUFFIX,eporner.com
+  - DOMAIN-SUFFIX,eporner.sex
+  - DOMAIN-SUFFIX,tnaflix.com
+  - DOMAIN-SUFFIX,empflix.com
+  - DOMAIN-SUFFIX,txxx.com
+  - DOMAIN-SUFFIX,hdzog.com
+  - DOMAIN-SUFFIX,hclips.com
+  - DOMAIN-SUFFIX,upornia.com
+  - DOMAIN-SUFFIX,vjav.com
+  - DOMAIN-SUFFIX,jav.guru
+  - DOMAIN-SUFFIX,javhd.com
+  - DOMAIN-SUFFIX,javlibrary.com
+  - DOMAIN-SUFFIX,r18.com
+  - DOMAIN-SUFFIX,dmm.co.jp
+  - DOMAIN-SUFFIX,stripchat.com
+  - DOMAIN-SUFFIX,chaturbate.com
+  - DOMAIN-SUFFIX,cam4.com
+  - DOMAIN-SUFFIX,livejasmin.com
+  - DOMAIN-SUFFIX,bongacams.com
+  - DOMAIN-SUFFIX,myfreecams.com
+  - DOMAIN-SUFFIX,camsoda.com
+  - DOMAIN-SUFFIX,streamate.com
+  - DOMAIN-SUFFIX,flirt4free.com
+  - DOMAIN-SUFFIX,imlive.com
+  - DOMAIN-SUFFIX,rule34.xxx
+  - DOMAIN-SUFFIX,rule34.paheal.net
+  - DOMAIN-SUFFIX,e-hentai.org
+  - DOMAIN-SUFFIX,exhentai.org
+  - DOMAIN-SUFFIX,ehgt.org
+  - DOMAIN-SUFFIX,nhentai.net
+  - DOMAIN-SUFFIX,hitomi.la
+  - DOMAIN-SUFFIX,gelbooru.com
+  - DOMAIN-SUFFIX,danbooru.donmai.us
+  - DOMAIN-SUFFIX,sankakucomplex.com
+  - DOMAIN-SUFFIX,konachan.com
+  - DOMAIN-SUFFIX,yande.re
+  - DOMAIN-SUFFIX,sex.com
+  - DOMAIN-SUFFIX,imagefap.com
+  - DOMAIN-SUFFIX,fapello.com
+  - DOMAIN-SUFFIX,coomer.party
+  - DOMAIN-SUFFIX,kemono.party
+  - DOMAIN-SUFFIX,simpcity.su
+  - DOMAIN-SUFFIX,f95zone.to
+  - DOMAIN-SUFFIX,lewdzone.com
+  - DOMAIN-SUFFIX,leakedbb.com
+  - DOMAIN-SUFFIX,avgle.com
+  - DOMAIN-SUFFIX,thisav.com
+  - DOMAIN-SUFFIX,missav.com
+  - DOMAIN-SUFFIX,supjav.com
+  - DOMAIN-SUFFIX,jable.tv
+  - DOMAIN-SUFFIX,91porn.com
+  - DOMAIN-SUFFIX,caoliu.com
+  - DOMAIN-SUFFIX,sexinsex.net
+  - DOMAIN-SUFFIX,t66y.com
+  - DOMAIN-SUFFIX,xart.com
+  - DOMAIN-SUFFIX,brazzers.com
+  - DOMAIN-SUFFIX,realitykings.com
+  - DOMAIN-SUFFIX,mofos.com
+  - DOMAIN-SUFFIX,bangbros.com
+  - DOMAIN-SUFFIX,naughtyamerica.com
+  - DOMAIN-SUFFIX,digitalplayground.com
+  - DOMAIN-SUFFIX,fakehub.com
+  - DOMAIN-SUFFIX,teamskeet.com
+  - DOMAIN-SUFFIX,vixen.com
+  - DOMAIN-SUFFIX,blacked.com
+  - DOMAIN-SUFFIX,tushy.com
+  - DOMAIN-SUFFIX,onlyfans.com
+  - DOMAIN-SUFFIX,fansly.com
+  - DOMAIN-SUFFIX,fanvue.com
+  - DOMAIN-SUFFIX,patreon.com
+  - DOMAIN-SUFFIX,gumroad.com
+  - DOMAIN-SUFFIX,loyalfans.com
+  - DOMAIN-SUFFIX,justfor.fans
+  - DOMAIN-SUFFIX,manyvids.com
+  - DOMAIN-SUFFIX,clips4sale.com
+  - DOMAIN-SUFFIX,iwantclips.com
+  - DOMAIN-SUFFIX,pstatp.com
+  - DOMAIN-SUFFIX,rncdn1.com
+  - DOMAIN-SUFFIX,rncdn2.com
+  - DOMAIN-SUFFIX,rncdn3.com
+  - DOMAIN-SUFFIX,rncdn7.com
+  - DOMAIN-SUFFIX,hbomax.com
+  - DOMAIN-SUFFIX,max.com
+  - DOMAIN-SUFFIX,hbo.com
+  - DOMAIN-KEYWORD,netflix
+  - DOMAIN-KEYWORD,twitch
+  - DOMAIN-KEYWORD,porn
+  - DOMAIN-KEYWORD,xxx
+  - DOMAIN-KEYWORD,xnxx
+  - DOMAIN-KEYWORD,hentai
+  - DOMAIN-KEYWORD,adult
